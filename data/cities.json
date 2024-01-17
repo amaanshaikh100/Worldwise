@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Aragnouet",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-01-17T10:11:19.657Z",
-      "notes": "",
-      "position": {
-        "lat": "42.76378351624368",
-        "lng": "0.14697712118316278"
-      },
-      "id": 1
-    },
-    {
       "cityName": "Kaisers",
       "country": "Austria",
       "emoji": "🇦🇹",
@@ -23,6 +11,54 @@
         "lng": "10.257794841067254"
       },
       "id": 2
+    },
+    {
+      "cityName": "Navascues",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T10:46:27.465Z",
+      "notes": "",
+      "position": {
+        "lat": "42.76349722551117",
+        "lng": "-1.1234419281198618"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Aumagne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-17T10:49:14.403Z",
+      "notes": "",
+      "position": {
+        "lat": "45.89024565457138",
+        "lng": "-0.4017000829553164"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Aibar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T10:50:14.290Z",
+      "notes": "",
+      "position": {
+        "lat": "42.618172963057425",
+        "lng": "-1.3866344015362109"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "La Tierga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T10:50:42.656Z",
+      "notes": "",
+      "position": {
+        "lat": "41.62424501649151",
+        "lng": "-1.584028756598488"
+      },
+      "id": 6
     }
   ]
 }
