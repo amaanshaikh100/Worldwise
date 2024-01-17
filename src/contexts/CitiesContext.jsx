@@ -3,10 +3,18 @@ import { createContext, useState, useEffect, useContext } from "react";
 const BASE_URL = "http://localhost:9000";
 const CitiesContext = createContext();
 
+function reducer(state, action) {}
+
+const initialState = {
+  cities: [],
+  isLoading: false,
+  currentCity: {},
+};
+
 function CitiesProvider({ children }) {
-  const [cities, setCities] = useState([]);
-  const [isLoading, setIsLoading] = useState(false);
-  const [currentCity, setCurrentCity] = useState({});
+  // const [cities, setCities] = useState([]);
+  // const [isLoading, setIsLoading] = useState(false);
+  // const [currentCity, setCurrentCity] = useState({});
 
   useEffect(() => {
     async function fetchCities() {
