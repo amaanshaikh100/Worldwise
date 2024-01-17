@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Aragnouet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-17T10:11:19.657Z",
+      "notes": "",
+      "position": {
+        "lat": "42.76378351624368",
+        "lng": "0.14697712118316278"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Kaisers",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-01-17T10:11:25.279Z",
+      "notes": "",
+      "position": {
+        "lat": "47.1624553211156",
+        "lng": "10.257794841067254"
+      },
+      "id": 2
+    }
+  ]
+}
